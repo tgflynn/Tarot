@@ -5,6 +5,8 @@ This is an Excel Application for creating Tarot speads.
 
 ## Screenshots
 
+### Tarot Deck
+
 ![Tarot Deck](images/screenshot-1.png)
 
 <img src="images/screenshot-1.png" alt="Tarot Deck" width="600">
@@ -14,3 +16,13 @@ This is an Excel Application for creating Tarot speads.
 - Excel workbook containing the Tarot application.
 - VBA modules supporting the application.
 - Images and other supporting resources.
+
+## Support
+
+This project is currently under active development and unless you are one of my very special friends
+you will receive no free support from me. 
+
+Unless you are a competent developer, in which case
+you will have to convince me that you have at least some idea of what you are talking about.
+For example, at least be ready to explain to me how you would do a Full Factory Reset of
+this app before you even think of bothering me.
