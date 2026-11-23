@@ -1,0 +1,28 @@
+
+# Excel Tarot Spreads
+
+This is an Excel Application for creating Tarot speads.
+
+## Screenshots
+
+You can include images in a GitHub README using Markdown's image syntax:
+
+```markdown
+![Description of image](images/tarot-spread.png)
+```
+
+For example:
+
+![Tarot Spread](images/tarot-spread.png)
+
+Alternatively, you can use HTML to control the image dimensions:
+
+```html
+<img src="images/tarot-spread.png" alt="Tarot Spread" width="600">
+```
+
+## Project Contents
+
+- Excel workbook containing the Tarot application.
+- VBA modules supporting the application.
+- Images and other supporting resources.
