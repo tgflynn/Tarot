@@ -1,10 +1,9 @@
 
-# Excel Tarot Spreads
+# Tarot
 
 This is an Excel Application for creating Tarot speads.
 
 ## Screenshots
-
 
 ![Tarot Deck](images/screenshot-1.png)
 
