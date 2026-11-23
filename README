@@ -8,7 +8,7 @@ This is an Excel Application for creating Tarot speads.
 You can include images in a GitHub README using Markdown's image syntax:
 
 ```markdown
-[Tarot Deck](images/screenshot-1.png)
+![Tarot Deck](images/screenshot-1.png)
 ```
 
 For example:
