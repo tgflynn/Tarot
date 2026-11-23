@@ -13,12 +13,12 @@ You can include images in a GitHub README using Markdown's image syntax:
 
 For example:
 
-![Tarot Spread](images/tarot-spread.png)
+![Tarot Deck](images/screenshot-1.png)
 
 Alternatively, you can use HTML to control the image dimensions:
 
 ```html
-<img src="images/screenshot-1.png" alt="Tarot Spread" width="600">
+<img src="images/screenshot-1.png" alt="Tarot Deck" width="600">
 ```
 
 ## Project Contents
