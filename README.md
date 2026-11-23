@@ -5,21 +5,10 @@ This is an Excel Application for creating Tarot speads.
 
 ## Screenshots
 
-You can include images in a GitHub README using Markdown's image syntax:
-
-```markdown
-![Tarot Deck](images/screenshot-1.png)
-```
-
-For example:
 
 ![Tarot Deck](images/screenshot-1.png)
 
-Alternatively, you can use HTML to control the image dimensions:
-
-```html
 <img src="images/screenshot-1.png" alt="Tarot Deck" width="600">
-```
 
 ## Project Contents
 
