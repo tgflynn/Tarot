@@ -11,6 +11,10 @@ This is an Excel Application for creating Tarot speads.
 
 <img src="images/screenshot-1.png" alt="Tarot Deck" width="600">
 
+### Spreads
+
+<img src="images/screenshot-2.png" alt="Spread Three" width="600">
+
 ## Project Contents
 
 - Excel workbook containing the Tarot application.
