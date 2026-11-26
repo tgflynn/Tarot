@@ -7,13 +7,17 @@ This is an Excel Application for creating Tarot speads.
 
 ### Tarot Deck
 
-![Tarot Deck](images/screenshot-1.png)
-
 <img src="images/screenshot-1.png" alt="Tarot Deck" width="600">
 
 ### Spreads
 
+#### Spread Three
+
 <img src="images/screenshot-2.png" alt="Spread Three" width="600">
+
+#### Spread Three (Fixed)
+
+<img src="images/screenshot-3.png" alt="Spread Three" width="600">
 
 ## Project Contents
 
