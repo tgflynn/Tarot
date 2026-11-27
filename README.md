@@ -19,6 +19,10 @@ This is an Excel Application for creating Tarot speads.
 
 <img src="images/screenshot-3.png" alt="Spread Three" width="600">
 
+#### Spread Three - The First Real Draw
+
+<img src="images/screenshot-4.png" alt="The First Real Draw" width="600">
+
 ## Project Contents
 
 - Excel workbook containing the Tarot application.
