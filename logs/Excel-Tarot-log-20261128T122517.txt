@@ -1,0 +1,323 @@
+BuildApplication: START
+Master: START
+Found 3 object(s):
+
+Sheet: Main | Name: TextBox 1 | Visible: -1
+Sheet: Main | Name: Rounded Rectangle 2 | Visible: -1
+Sheet: Main | Name: ReinitializeButton | Visible: -1
+48
+CreateTempSheet: ws.Name = Sheet1
+RecreateSheet In If CountSheets = 1, tsheetName = Sheet1
+tsheet name = Sheet1
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+FetchMinorArcana: START
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+FetchMinorArcana: END
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_12__Hanged_Man.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_15__Devil.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_16__Tower.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_17__Star.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_18__Moon.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_19__Sun.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_20_Judgement.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+Elapsed Time = 94.46875 seconds.
+Elapsed Time = 1.57447916666667 minutes.
+Master: END
+CreateGUI: START
