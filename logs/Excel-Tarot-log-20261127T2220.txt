@@ -1,0 +1,1820 @@
+Test
+Test2
+Test2
+Elapsed Time = 94.67188 seconds.
+Elapsed Time = 1.57786458333333 minutes.
+Master: END
+Master: START
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+FetchMinorArcana: START
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+FetchMinorArcana: END
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_12__Hanged_Man.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_15__Devil.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_16__Tower.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_17__Star.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_18__Moon.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_19__Sun.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_20_Judgement.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+Elapsed Time = 94.17188 seconds.
+Elapsed Time = 1.56953125 minutes.
+Master: END
+CreateGUI: START
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+InitializeTheDeck: MinorArcana :
+
+InitializeTheDeck: MajorArcana :
+
+CreateGUI: END
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+InitializeTheDeck: MinorArcana :
+
+InitializeTheDeck: MajorArcana :
+
+Master: START
+Found 87 object(s):
+
+Sheet: Spread-3 | Name: Pents-14 | Visible: -1
+Sheet: Spread-3 | Name: Pents-2 | Visible: -1
+Sheet: Spread-3 | Name: Pents-4 | Visible: -1
+Sheet: Spread-3 | Name: Pents-8 | Visible: -1
+Sheet: Spread-3 | Name: Wands-4 | Visible: -1
+Sheet: Controls | Name: Rounded Rectangle 1 | Visible: -1
+Sheet: Main | Name: TextBox 1 | Visible: -1
+Sheet: Main | Name: Rounded Rectangle 2 | Visible: -1
+Sheet: Main | Name: ReinitializeButton | Visible: -1
+Sheet: Major Arcana | Name: The Fool | Visible: -1
+Sheet: Major Arcana | Name: The Magician | Visible: -1
+Sheet: Major Arcana | Name: The High Priestess | Visible: -1
+Sheet: Major Arcana | Name: The Empress | Visible: -1
+Sheet: Major Arcana | Name: The Emperor | Visible: -1
+Sheet: Major Arcana | Name: The Hierophant | Visible: -1
+Sheet: Major Arcana | Name: The Lovers | Visible: -1
+Sheet: Major Arcana | Name: The Chariot | Visible: -1
+Sheet: Major Arcana | Name: Strength | Visible: -1
+Sheet: Major Arcana | Name: The Hermit | Visible: -1
+Sheet: Major Arcana | Name: Wheel of Fortune | Visible: -1
+Sheet: Major Arcana | Name: Justice | Visible: -1
+Sheet: Major Arcana | Name: The Hanged Man | Visible: -1
+Sheet: Major Arcana | Name: Death | Visible: -1
+Sheet: Major Arcana | Name: Temperance | Visible: -1
+Sheet: Major Arcana | Name: The Devil | Visible: -1
+Sheet: Major Arcana | Name: The Tower | Visible: -1
+Sheet: Major Arcana | Name: The Star | Visible: -1
+Sheet: Major Arcana | Name: The Moon | Visible: -1
+Sheet: Major Arcana | Name: The Sun | Visible: -1
+Sheet: Major Arcana | Name: Judgement | Visible: -1
+Sheet: Major Arcana | Name: The World | Visible: -1
+Sheet: Minor Arcana | Name: Wands-1 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-2 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-3 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-4 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-5 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-6 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-7 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-8 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-9 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-10 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-11 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-12 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-13 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-14 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-1 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-2 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-3 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-4 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-5 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-6 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-7 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-8 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-9 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-10 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-11 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-12 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-13 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-14 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-1 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-2 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-3 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-4 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-5 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-6 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-7 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-8 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-9 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-10 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-11 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-12 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-13 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-14 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-1 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-2 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-3 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-4 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-5 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-6 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-7 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-8 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-9 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-10 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-11 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-12 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-13 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-14 | Visible: -1
+48
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+FetchMinorArcana: START
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 1 url = https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Wands14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 2 url = https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Cups14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 3 url = https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Swords14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg Column = A
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents01.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg Column = B
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents02.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg Column = C
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents03.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg Column = D
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents04.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg Column = E
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents05.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg Column = F
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents06.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg Column = G
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents07.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg Column = H
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents08.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg Column = I
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents09.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg Column = J
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents10.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg Column = K
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents11.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg Column = L
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents12.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg Column = M
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents13.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+i = 4 url = https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg Column = N
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/Pents14.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+FetchMinorArcana: END
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_10_Wheel_of_Fortune.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_11_Justice.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_12__Hanged_Man.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_13_Death.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_14_Temperance.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_15__Devil.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_16__Tower.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_17__Star.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_18__Moon.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_19__Sun.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_20_Judgement.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+HttpGet: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+Hello
+C:\Users\tgf31\AppData\Local\Temp\testimage.jpg
+Elapsed Time = 93.82031 seconds.
+Elapsed Time = 1.563671875 minutes.
+Master: END
+CreateGUI: START
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+InitializeTheDeck: MinorArcana :
+
+Wands-1
+, 
+Wands-2
+, 
+Wands-3
+, 
+Wands-4
+, 
+Wands-5
+, 
+Wands-6
+, 
+Wands-7
+, 
+Wands-8
+, 
+Wands-9
+, 
+Wands-10
+, 
+Wands-11
+, 
+Wands-12
+, 
+Wands-13
+, 
+Wands-14
+, 
+Cups-1
+, 
+Cups-2
+, 
+Cups-3
+, 
+Cups-4
+, 
+Cups-5
+, 
+Cups-6
+, 
+Cups-7
+, 
+Cups-8
+, 
+Cups-9
+, 
+Cups-10
+, 
+Cups-11
+, 
+Cups-12
+, 
+Cups-13
+, 
+Cups-14
+, 
+Swords-1
+, 
+Swords-2
+, 
+Swords-3
+, 
+Swords-4
+, 
+Swords-5
+, 
+Swords-6
+, 
+Swords-7
+, 
+Swords-8
+, 
+Swords-9
+, 
+Swords-10
+, 
+Swords-11
+, 
+Swords-12
+, 
+Swords-13
+, 
+Swords-14
+, 
+Pents-1
+, 
+Pents-2
+, 
+Pents-3
+, 
+Pents-4
+, 
+Pents-5
+, 
+Pents-6
+, 
+Pents-7
+, 
+Pents-8
+, 
+Pents-9
+, 
+Pents-10
+, 
+Pents-11
+, 
+Pents-12
+, 
+Pents-13
+, 
+Pents-14
+
+InitializeTheDeck: MajorArcana :
+
+The Fool
+, 
+The Magician
+, 
+The High Priestess
+, 
+The Empress
+, 
+The Emperor
+, 
+The Hierophant
+, 
+The Lovers
+, 
+The Chariot
+, 
+Strength
+, 
+The Hermit
+, 
+Wheel of Fortune
+, 
+Justice
+, 
+The Hanged Man
+, 
+Death
+, 
+Temperance
+, 
+The Devil
+, 
+The Tower
+, 
+The Star
+, 
+The Moon
+, 
+The Sun
+, 
+Judgement
+, 
+The World
+
+CreateGUI: END
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+InitializeTheDeck: MinorArcana :
+
+Wands-1
+, 
+Wands-2
+, 
+Wands-3
+, 
+Wands-4
+, 
+Wands-5
+, 
+Wands-6
+, 
+Wands-7
+, 
+Wands-8
+, 
+Wands-9
+, 
+Wands-10
+, 
+Wands-11
+, 
+Wands-12
+, 
+Wands-13
+, 
+Wands-14
+, 
+Cups-1
+, 
+Cups-2
+, 
+Cups-3
+, 
+Cups-4
+, 
+Cups-5
+, 
+Cups-6
+, 
+Cups-7
+, 
+Cups-8
+, 
+Cups-9
+, 
+Cups-10
+, 
+Cups-11
+, 
+Cups-12
+, 
+Cups-13
+, 
+Cups-14
+, 
+Swords-1
+, 
+Swords-2
+, 
+Swords-3
+, 
+Swords-4
+, 
+Swords-5
+, 
+Swords-6
+, 
+Swords-7
+, 
+Swords-8
+, 
+Swords-9
+, 
+Swords-10
+, 
+Swords-11
+, 
+Swords-12
+, 
+Swords-13
+, 
+Swords-14
+, 
+Pents-1
+, 
+Pents-2
+, 
+Pents-3
+, 
+Pents-4
+, 
+Pents-5
+, 
+Pents-6
+, 
+Pents-7
+, 
+Pents-8
+, 
+Pents-9
+, 
+Pents-10
+, 
+Pents-11
+, 
+Pents-12
+, 
+Pents-13
+, 
+Pents-14
+
+InitializeTheDeck: MajorArcana :
+
+The Fool
+, 
+The Magician
+, 
+The High Priestess
+, 
+The Empress
+, 
+The Emperor
+, 
+The Hierophant
+, 
+The Lovers
+, 
+The Chariot
+, 
+Strength
+, 
+The Hermit
+, 
+Wheel of Fortune
+, 
+Justice
+, 
+The Hanged Man
+, 
+Death
+, 
+Temperance
+, 
+The Devil
+, 
+The Tower
+, 
+The Star
+, 
+The Moon
+, 
+The Sun
+, 
+Judgement
+, 
+The World
+
+Shuffle: v : 
+Wands-1
+, 
+Wands-2
+, 
+Wands-3
+, 
+Wands-4
+, 
+Wands-5
+, 
+Wands-6
+, 
+Wands-7
+, 
+Wands-8
+, 
+Wands-9
+, 
+Wands-10
+, 
+Wands-11
+, 
+Wands-12
+, 
+Wands-13
+, 
+Wands-14
+, 
+Cups-1
+, 
+Cups-2
+, 
+Cups-3
+, 
+Cups-4
+, 
+Cups-5
+, 
+Cups-6
+, 
+Cups-7
+, 
+Cups-8
+, 
+Cups-9
+, 
+Cups-10
+, 
+Cups-11
+, 
+Cups-12
+, 
+Cups-13
+, 
+Cups-14
+, 
+Swords-1
+, 
+Swords-2
+, 
+Swords-3
+, 
+Swords-4
+, 
+Swords-5
+, 
+Swords-6
+, 
+Swords-7
+, 
+Swords-8
+, 
+Swords-9
+, 
+Swords-10
+, 
+Swords-11
+, 
+Swords-12
+, 
+Swords-13
+, 
+Swords-14
+, 
+Pents-1
+, 
+Pents-2
+, 
+Pents-3
+, 
+Pents-4
+, 
+Pents-5
+, 
+Pents-6
+, 
+Pents-7
+, 
+Pents-8
+, 
+Pents-9
+, 
+Pents-10
+, 
+Pents-11
+, 
+Pents-12
+, 
+Pents-13
+, 
+Pents-14
+, 
+The Fool
+, 
+The Magician
+, 
+The High Priestess
+, 
+The Empress
+, 
+The Emperor
+, 
+The Hierophant
+, 
+The Lovers
+, 
+The Chariot
+, 
+Strength
+, 
+The Hermit
+, 
+Wheel of Fortune
+, 
+Justice
+, 
+The Hanged Man
+, 
+Death
+, 
+Temperance
+, 
+The Devil
+, 
+The Tower
+, 
+The Star
+, 
+The Moon
+, 
+The Sun
+, 
+Judgement
+, 
+The World
+
+
+vstart = 1 & vend = 78
+idx = 1ridx = 34
+idx = 2ridx = 8
+idx = 3ridx = 44
+idx = 4ridx = 55
+idx = 5ridx = 72
+idx = 6ridx = 66
+idx = 7ridx = 2
+idx = 8ridx = 43
+idx = 9ridx = 72
+idx = 10ridx = 34
+idx = 11ridx = 53
+idx = 12ridx = 40
+idx = 13ridx = 41
+idx = 14ridx = 37
+idx = 15ridx = 28
+idx = 16ridx = 32
+idx = 17ridx = 22
+idx = 18ridx = 5
+idx = 19ridx = 20
+idx = 20ridx = 77
+idx = 21ridx = 5
+idx = 22ridx = 31
+idx = 23ridx = 29
+idx = 24ridx = 39
+idx = 25ridx = 13
+idx = 26ridx = 38
+idx = 27ridx = 21
+idx = 28ridx = 50
+idx = 29ridx = 43
+idx = 30ridx = 13
+idx = 31ridx = 74
+idx = 32ridx = 52
+idx = 33ridx = 40
+idx = 34ridx = 31
+idx = 35ridx = 9
+idx = 36ridx = 62
+idx = 37ridx = 36
+idx = 38ridx = 59
+idx = 39ridx = 47
+idx = 40ridx = 65
+idx = 41ridx = 2
+idx = 42ridx = 17
+idx = 43ridx = 6
+idx = 44ridx = 9
+idx = 45ridx = 26
+idx = 46ridx = 11
+idx = 47ridx = 1
+idx = 48ridx = 42
+idx = 49ridx = 52
+idx = 50ridx = 43
+idx = 51ridx = 65
+idx = 52ridx = 7
+idx = 53ridx = 15
+idx = 54ridx = 53
+idx = 55ridx = 36
+idx = 56ridx = 28
+idx = 57ridx = 12
+idx = 58ridx = 55
+idx = 59ridx = 73
+idx = 60ridx = 42
+idx = 61ridx = 7
+idx = 62ridx = 60
+idx = 63ridx = 32
+idx = 64ridx = 37
+idx = 65ridx = 39
+idx = 66ridx = 17
+idx = 67ridx = 26
+idx = 68ridx = 8
+idx = 69ridx = 47
+idx = 70ridx = 14
+idx = 71ridx = 73
+idx = 72ridx = 8
+idx = 73ridx = 35
+idx = 74ridx = 22
+idx = 75ridx = 69
+idx = 76ridx = 59
+idx = 77ridx = 22
+idx = 78ridx = 53
+Shuffle: *** END ***
+Cups-10
+, 
+Wands-13
+, 
+Pents-2
+, 
+Pents-13
+, 
+Cups-7
+, 
+Cups-9
+, 
+The Emperor
+, 
+Wands-9
+, 
+Wands-3
+, 
+Wands-1
+, 
+Pents-4
+, 
+The Fool
+, 
+Swords-2
+, 
+Death
+, 
+Wands-11
+, 
+Swords-4
+, 
+Wands-6
+, 
+The Devil
+, 
+Cups-6
+, 
+Judgement
+, 
+Cups-13
+, 
+Cups-5
+, 
+Swords-1
+, 
+Swords-11
+, 
+Swords-13
+, 
+Wheel of Fortune
+, 
+Cups-4
+, 
+Pents-14
+, 
+Wands-2
+, 
+Cups-11
+, 
+Wands-10
+, 
+The Lovers
+, 
+Wands-12
+, 
+The Star
+, 
+Temperance
+, 
+Wands-4
+, 
+The Chariot
+, 
+The High Priestess
+, 
+Pents-9
+, 
+Strength
+, 
+Wands-7
+, 
+The Empress
+, 
+Cups-1
+, 
+Swords-7
+, 
+Swords-10
+, 
+Pents-11
+, 
+The Hanged Man
+, 
+Cups-8
+, 
+Cups-2
+, 
+The Hermit
+, 
+Swords-5
+, 
+Wands-8
+, 
+The World
+, 
+Cups-14
+, 
+The Magician
+, 
+Pents-8
+, 
+Swords-12
+, 
+Wands-14
+, 
+The Sun
+, 
+Swords-8
+, 
+Pents-7
+, 
+Pents-6
+, 
+Pents-10
+, 
+The Hierophant
+, 
+Pents-5
+, 
+Swords-14
+, 
+Pents-3
+, 
+Pents-1
+, 
+The Moon
+, 
+Swords-9
+, 
+Cups-12
+, 
+Justice
+, 
+Wands-5
+, 
+Swords-3
+, 
+Swords-6
+, 
+The Tower
+, 
+Cups-3
+, 
+Pents-12
+
+DrawDeckCard: CardName = Cups-10 & wsSource:
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: START: CardName = Cups-10
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: wsDest.Shapes.Count = 1
+DrawCard: START
+DrawDeckCard: CardName = Wands-13 & wsSource:
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: START: CardName = Wands-13
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: wsDest.Shapes.Count = 2
+DrawCard: START
+DrawDeckCard: CardName = Pents-2 & wsSource:
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: START: CardName = Pents-2
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: wsDest.Shapes.Count = 3
+DrawCard: START
+DrawDeckCard: CardName = Pents-13 & wsSource:
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: START: CardName = Pents-13
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: wsDest.Shapes.Count = 4
+DrawCard: START
+DrawDeckCard: CardName = Cups-7 & wsSource:
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: START: CardName = Cups-7
+Type = Worksheet
+Name = Minor Arcana
+DrawCard: wsDest.Shapes.Count = 5
+DrawCard: START
+Found 87 object(s):
+
+Sheet: Spread-3 | Name: Cups-10 | Visible: -1
+Sheet: Spread-3 | Name: Wands-13 | Visible: -1
+Sheet: Spread-3 | Name: Pents-2 | Visible: -1
+Sheet: Spread-3 | Name: Pents-13 | Visible: -1
+Sheet: Spread-3 | Name: Cups-7 | Visible: -1
+Sheet: Controls | Name: Rounded Rectangle 1 | Visible: -1
+Sheet: Main | Name: TextBox 1 | Visible: -1
+Sheet: Main | Name: Rounded Rectangle 2 | Visible: -1
+Sheet: Main | Name: ReinitializeButton | Visible: -1
+Sheet: Major Arcana | Name: The Fool | Visible: -1
+Sheet: Major Arcana | Name: The Magician | Visible: -1
+Sheet: Major Arcana | Name: The High Priestess | Visible: -1
+Sheet: Major Arcana | Name: The Empress | Visible: -1
+Sheet: Major Arcana | Name: The Emperor | Visible: -1
+Sheet: Major Arcana | Name: The Hierophant | Visible: -1
+Sheet: Major Arcana | Name: The Lovers | Visible: -1
+Sheet: Major Arcana | Name: The Chariot | Visible: -1
+Sheet: Major Arcana | Name: Strength | Visible: -1
+Sheet: Major Arcana | Name: The Hermit | Visible: -1
+Sheet: Major Arcana | Name: Wheel of Fortune | Visible: -1
+Sheet: Major Arcana | Name: Justice | Visible: -1
+Sheet: Major Arcana | Name: The Hanged Man | Visible: -1
+Sheet: Major Arcana | Name: Death | Visible: -1
+Sheet: Major Arcana | Name: Temperance | Visible: -1
+Sheet: Major Arcana | Name: The Devil | Visible: -1
+Sheet: Major Arcana | Name: The Tower | Visible: -1
+Sheet: Major Arcana | Name: The Star | Visible: -1
+Sheet: Major Arcana | Name: The Moon | Visible: -1
+Sheet: Major Arcana | Name: The Sun | Visible: -1
+Sheet: Major Arcana | Name: Judgement | Visible: -1
+Sheet: Major Arcana | Name: The World | Visible: -1
+Sheet: Minor Arcana | Name: Wands-1 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-2 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-3 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-4 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-5 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-6 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-7 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-8 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-9 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-10 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-11 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-12 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-13 | Visible: -1
+Sheet: Minor Arcana | Name: Wands-14 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-1 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-2 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-3 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-4 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-5 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-6 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-7 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-8 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-9 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-10 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-11 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-12 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-13 | Visible: -1
+Sheet: Minor Arcana | Name: Cups-14 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-1 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-2 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-3 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-4 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-5 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-6 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-7 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-8 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-9 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-10 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-11 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-12 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-13 | Visible: -1
+Sheet: Minor Arcana | Name: Swords-14 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-1 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-2 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-3 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-4 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-5 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-6 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-7 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-8 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-9 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-10 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-11 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-12 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-13 | Visible: -1
+Sheet: Minor Arcana | Name: Pents-14 | Visible: -1
+48
+CreateGUI: START
+Initializing Constants
+Initializing Constants: WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Initialized Major Arcana: The World
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/
+Major Arcana Download URL  1: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+Major Arcana Download URL 22: https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_21__World.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_00__Fool.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_01__Magician.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_02__High_Priestess.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_03__Empress.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_04__Emperor.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_05__Hierophant.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_06__Lovers.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_07__Chariot.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_08_Strength.jpg
+WIKIMEDIA_DOWNLOAD_URL = https://commons.wikimedia.org/wiki/Special:FilePath/RWS_Tarot_09__Hermit.jpg
+InitializeTheDeck: MinorArcana :
+
+Wands-1
+, 
+Wands-2
+, 
+Wands-3
+, 
+Wands-4
+, 
+Wands-5
+, 
+Wands-6
+, 
+Wands-7
+, 
+Wands-8
+, 
+Wands-9
+, 
+Wands-10
+, 
+Wands-11
+, 
+Wands-12
+, 
+Wands-13
+, 
+Wands-14
+, 
+Cups-1
+, 
+Cups-2
+, 
+Cups-3
+, 
+Cups-4
+, 
+Cups-5
+, 
+Cups-6
+, 
+Cups-7
+, 
+Cups-8
+, 
+Cups-9
+, 
+Cups-10
+, 
+Cups-11
+, 
+Cups-12
+, 
+Cups-13
+, 
+Cups-14
+, 
+Swords-1
+, 
+Swords-2
+, 
+Swords-3
+, 
+Swords-4
+, 
+Swords-5
+, 
+Swords-6
+, 
+Swords-7
+, 
+Swords-8
+, 
+Swords-9
+, 
+Swords-10
+, 
+Swords-11
+, 
+Swords-12
+, 
+Swords-13
+, 
+Swords-14
+, 
+Pents-1
+, 
+Pents-2
+, 
+Pents-3
+, 
+Pents-4
+, 
+Pents-5
+, 
+Pents-6
+, 
+Pents-7
+, 
+Pents-8
+, 
+Pents-9
+, 
+Pents-10
+, 
+Pents-11
+, 
+Pents-12
+, 
+Pents-13
+, 
+Pents-14
+
+InitializeTheDeck: MajorArcana :
+
+The Fool
+, 
+The Magician
+, 
+The High Priestess
+, 
+The Empress
+, 
+The Emperor
+, 
+The Hierophant
+, 
+The Lovers
+, 
+The Chariot
+, 
+Strength
+, 
+The Hermit
+, 
+Wheel of Fortune
+, 
+Justice
+, 
+The Hanged Man
+, 
+Death
+, 
+Temperance
+, 
+The Devil
+, 
+The Tower
+, 
+The Star
+, 
+The Moon
+, 
+The Sun
+, 
+Judgement
+, 
+The World
+
+CreateGUI: END
+DeleteAllSheets : START
+DeleteAllSheets: totalCount = 1 : END
